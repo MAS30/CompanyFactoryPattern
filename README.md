@@ -22,3 +22,9 @@ This makes `Company` independent of specific employee classes.
 ## How to Run
 1. Copy all `.java` files into your compiler or IDE.  
 2. Run `Main.java`.
+
+## Clean Code Practices
+- Consistent naming and indentation  
+- Minimal coupling, high cohesion  
+- Reusable, modular class design  
+- Clear separation of responsibilities  
